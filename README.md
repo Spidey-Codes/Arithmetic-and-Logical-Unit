@@ -1,4 +1,4 @@
-##*8-bit Arithmetic Logic Unit (ALU) in Verilog*
+##8-bit Arithmetic Logic Unit (ALU) in Verilog
 This repository contains the source code for a simple 8-bit Arithmetic Logic Unit (ALU) designed in Verilog. The project demonstrates fundamental digital logic design concepts by building individual functional units for arithmetic and bitwise logic, and then integrating them into a complete system controlled by a multiplexer.
 
 The entire system is verified using a SystemVerilog testbench.
